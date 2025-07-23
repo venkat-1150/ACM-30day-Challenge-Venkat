@@ -23,4 +23,4 @@
   - AdaBoost Accuracy: 98.24%
   - XGBoost Accuracy: 97.07%
 
-- After trainig the three modesl we can see that AdaBoost Classifier has the highest accuracy
+- After trainig the three models we can see that AdaBoost Classifier has the highest accuracy because of its boosting framework...
